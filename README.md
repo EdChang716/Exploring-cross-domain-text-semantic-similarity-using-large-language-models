@@ -125,8 +125,8 @@ similarity_score = cosine_similarity(embedding1, embedding2)
 print(f"Similarity Score: {similarity_score}")
 
 ## Repository Structure
-
 ```plaintext
+
 Exploring-Cross-Domain-Text-Semantic-Similarity/
 ├── data/                   # Dataset (if included)
 ├── notebooks/              # Jupyter notebooks for analysis
