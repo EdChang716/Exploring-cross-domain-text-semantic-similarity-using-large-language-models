@@ -123,7 +123,7 @@ embedding2 = get_embedding(text2, model="text-embedding-ada-002")
 # Compute similarity
 similarity_score = cosine_similarity(embedding1, embedding2)
 print(f"Similarity Score: {similarity_score}")
-
+```python
 ## Repository Structure
 ```plaintext
 
