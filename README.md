@@ -152,7 +152,6 @@ Contributions are welcome! If you have ideas for improvements or additional anal
 
 ## Acknowledgments
 
-- Special thanks to OpenAI for providing the Ada-002 model.
-- Inspiration drawn from ongoing advancements in NLP and text similarity research.
-
+- Special thanks to OpenAI's ada-002 model
+- Guidance under supervisor Prof. Pin-Hao Chen from CHENLab
 
