@@ -131,8 +131,6 @@ print(f"Similarity Score: {similarity_score}")
 Exploring-Cross-Domain-Text-Semantic-Similarity/
 ├── data/                   # Dataset (if included)
 ├── notebooks/              # Jupyter notebooks for analysis
-├── results/                # Results and visualizations
-├── requirements.txt        # Required Python packages
 ├── README.md               # Project description
 └── LICENSE                 # License for the project
 ```
